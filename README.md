@@ -4,9 +4,9 @@
 We will use the online dataset : https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression?resource=download to figure out how much money the startup will make based on four factors.
 The dataset will be available on the LMS and will be called startups.txt. The parameters of the dataset
 are:
-1. # R&D spend - money spent in the research in development for the startup
-2. # Administration - money spent for the administration of the startup
-3. # Marketing Spend - money spent for the marketing of the startup
+1. R&D spend - money spent in the research in development for the startup
+2. Administration - money spent for the administration of the startup
+3. Marketing Spend - money spent for the marketing of the startup
 4. State - Location of the startup
 
 # Assignment 1
